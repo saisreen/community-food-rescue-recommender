@@ -1,0 +1,16 @@
+center_name,food_type,refrigeration,max_capacity,urgency,population_served
+Green Basket Community Pantry,Fresh Produce,Yes,50,High,Families
+Sunrise Senior Food Support,Fresh Produce,Yes,30,High,Seniors
+Hope Family Resource Center,Packaged Food,No,100,Medium,Families
+Neighborhood Community Kitchen,Fresh Produce,Yes,75,High,General Community
+Helping Hands Youth Center,Packaged Food,No,40,Medium,Youth
+Silver Care Meal Center,Dairy,Yes,35,High,Seniors
+Family Bridge Pantry,Dairy,Yes,50,Medium,Families
+Open Table Community Center,Packaged Food,No,150,Low,General Community
+Harvest Hope Kitchen,Fresh Produce,Yes,100,Medium,General Community
+Bright Future Youth Pantry,Fresh Produce,Yes,25,Medium,Youth
+Community Grain Bank,Grains,No,200,Low,Families
+Golden Years Nutrition Center,Grains,No,60,Medium,Seniors
+Fresh Start Family Kitchen,Fresh Produce,Yes,80,High,Families
+Youth Care Food Hub,Dairy,Yes,30,High,Youth
+Unity Neighborhood Pantry,Grains,No,120,Medium,General Community
